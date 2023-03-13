@@ -1,1 +1,3 @@
 # CV
+
+As a passionate and experienced music teacher with 14 years of teaching under my belt, I am excited to embark on a new chapter in my career as a software developer. Through my years of teaching, I have honed my skills in problem-solving, creativity, and adaptability, all of which are invaluable in the world of software development. With a strong foundation in music theory and performance, I bring a unique perspective to the field of technology, which I am eager to apply to my work as a software developer. I am ready to take on new challenges and utilize my skills to contribute to innovative projects and teams.
